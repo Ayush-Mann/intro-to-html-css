@@ -1,0 +1,27 @@
+.home {
+	background-color: skyblue;
+}
+.contact {
+	background-color: blue;
+}
+.about {
+	background-color: green;	
+}
+h1 {
+	font-size: 43px;
+	text-decoration: none;
+	color: grey;
+}
+
+.abthead {
+	color: black;
+
+}
+
+.cont {
+	color: black;
+}
+nav {
+	font-size: 19px;
+
+}
